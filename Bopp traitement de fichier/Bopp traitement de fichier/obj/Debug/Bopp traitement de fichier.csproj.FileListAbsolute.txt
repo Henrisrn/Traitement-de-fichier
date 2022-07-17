@@ -1,0 +1,7 @@
+C:\Users\henri\source\repos\Bopp traitement de fichier\Bopp traitement de fichier\bin\Debug\Bopp traitement de fichier.exe.config
+C:\Users\henri\source\repos\Bopp traitement de fichier\Bopp traitement de fichier\bin\Debug\Bopp traitement de fichier.exe
+C:\Users\henri\source\repos\Bopp traitement de fichier\Bopp traitement de fichier\bin\Debug\Bopp traitement de fichier.pdb
+C:\Users\henri\source\repos\Bopp traitement de fichier\Bopp traitement de fichier\obj\Debug\Bopp traitement de fichier.csproj.AssemblyReference.cache
+C:\Users\henri\source\repos\Bopp traitement de fichier\Bopp traitement de fichier\obj\Debug\Bopp traitement de fichier.csproj.CoreCompileInputs.cache
+C:\Users\henri\source\repos\Bopp traitement de fichier\Bopp traitement de fichier\obj\Debug\Bopp traitement de fichier.exe
+C:\Users\henri\source\repos\Bopp traitement de fichier\Bopp traitement de fichier\obj\Debug\Bopp traitement de fichier.pdb
